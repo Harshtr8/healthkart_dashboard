@@ -40,7 +40,7 @@ Or download as ZIP and extract it.
 
 ---
 
-### 2. (Optional) Create a Virtual Environment
+### 2. Create a Virtual Environment
 
 ```bash
 # Windows
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ---
 
-### 4. Generate Sample Data (Optional)
+### 4. Generate Sample Data
 
 ```bash
 python data_simulation.py
