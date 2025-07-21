@@ -1,0 +1,31 @@
+# Virtual environment folders
+venv/
+env/
+ENV/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs (optional)
+.vscode/
+.idea/
+
+# OS or file browser hidden files
+*.swp
+
+# Data files that shouldn't be in source (optional)
+sample_data/*.csv
+
+# Streamlit temp files
+.streamlit/
+
+# Logs
+*.log
