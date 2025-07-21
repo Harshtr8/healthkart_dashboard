@@ -21,9 +21,6 @@ Thumbs.db
 # OS or file browser hidden files
 *.swp
 
-# Data files that shouldn't be in source (optional)
-sample_data/*.csv
-
 # Streamlit temp files
 .streamlit/
 
